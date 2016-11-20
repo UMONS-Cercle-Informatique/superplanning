@@ -7,7 +7,7 @@ Superplanning - Gérez mieux votre planning.
 Hyperplanning est un logiciel de gestion de planning utilisé par plusieurs
 établissement d'études supérieures, dont l'UMONS. Par exemple, on peut trouver
 le planning pour l'année académique 2016-2017
-à [cette adresse](https://hyperplanning2016.umons.ac.be).
+à [cette adresse](https://hplanning2016.umons.ac.be).
 
 Hyperplanning n'est pas user-friendly au niveau de l'utilisation. L'interface
 est assez horrible et de plus, elle n'est pas responsive pour le mobile. Et ces divers problèmes sont très critiqués par les étudiants.
