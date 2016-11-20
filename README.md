@@ -35,3 +35,16 @@ natives sont les clients qui font appels au backend.
 
 Elles consistent à fournir des interfaces plus modernes et plus utilisables que
 celle d'hyperplanning.
+
+## Stack
+
+Le projet se veut être éducatif pour les personnes participantes. Des choix ont
+été réalisées pour apprendre en premier lieu, non pour l'efficacité ou la
+maintenabilité. Les différentes technos utilisées sont:
+
+- SGBD: PostGreSQL.
+- Backend - récupération fichier iCal et importation dans la BDD: Python 3+, Selenium.
+- Backend - API REST: SmallTalk (Pharo) + Teapot.
+- Client Web: Java, Play Framework, Bootstrap.
+- Client Android: natif, Java.
+- Client iOS: natif, iOS.
