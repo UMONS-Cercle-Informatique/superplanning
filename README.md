@@ -42,8 +42,8 @@ Le projet se veut être éducatif pour les personnes participantes. Des choix on
 été réalisées pour apprendre en premier lieu, non pour l'efficacité ou la
 maintenabilité. Les différentes technos utilisées sont:
 
-- SGBD: PostGreSQL.
-- Backend - récupération fichier iCal et importation dans la BDD: Python 3+, Selenium.
+- SGBD: [PostGreSQL](https://www.postgresql.org/).
+- Backend - récupération fichier iCal et importation dans la BDD: Python 3+, [Selenium](http://selenium-python.readthedocs.io/), [Python iCalendar package](https://github.com/collective/icalendar), [driver PostGreSQL](http://initd.org/psycopg/docs/index.html).
 - Backend - API REST: SmallTalk (Pharo) + Teapot.
 - Client Web: Java, Play Framework, Bootstrap.
 - Client Android: natif, Java.
