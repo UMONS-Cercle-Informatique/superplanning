@@ -16,10 +16,8 @@ Le projet Superplanning est là pour apporter une nouvelle interface, web et mob
 Le projet dispose de plusieurs sous-projets:
 
 - [le backend](https://github.com/UMONS-Cercle-Informatique/superplanning-backend) qui contient tous les horaires (récupérés grâce aux fichiers iCal provenant d'hyperplanning) et qui fournit une interface REST pour les clients.
-
 - [le frontend](https://github.com/UMONS-Cercle-Informatique/superplanning-frontend), le client web.
-- [l'application mobile native Android](https://github.com/UMONS-Cercle-Informatique/superplanning-android-native), l'application mobile native Android (client).
-- [l'application mobile native iOS](https://github.com/UMONS-Cercle-Informatique/superplanning-ios-native), l'application mobile native iOS (client).
+- [les applications mobile natives Android/iOS](https://github.com/UMONS-Cercle-Informatique/superplanning-android-native), les applications mobiles.
 
 ## Backend.
 
@@ -46,5 +44,4 @@ maintenabilité. Les différentes technos utilisées sont:
 - Backend - récupération fichier iCal et importation dans la BDD: Python 3+, [Selenium](http://selenium-python.readthedocs.io/), [Python iCalendar package](https://github.com/collective/icalendar), [driver PostGreSQL](http://initd.org/psycopg/docs/index.html).
 - Backend - API REST: SmallTalk (Pharo) + Teapot.
 - Client Web: Java, Play Framework, Bootstrap.
-- Client Android: natif, Java.
-- Client iOS: natif, iOS.
+- Applications mobiles: ReactNative.
